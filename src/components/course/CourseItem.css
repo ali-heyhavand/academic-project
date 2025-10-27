@@ -1,0 +1,22 @@
+.btn {
+    width: 100%;
+}
+.btn:hover {
+    background-color: #948979 !important;
+    color: #fff !important;
+}
+.card {
+    border: 3px solid #948979 !important;
+    transition: .3s;
+    width: 100% !important;
+}
+.card-course:hover {
+    scale: 1.03;
+    box-shadow: 0 0 5px #000;
+}
+.card-img {
+    aspect-ratio: 1;
+}
+
+
+

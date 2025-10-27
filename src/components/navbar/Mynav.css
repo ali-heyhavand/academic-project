@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #DFD0B8;
+    border-bottom: 1rem !important;
+}
+
+.navbar-brand {
+    font-family: "Lalezar" , sans-serif;
+    font-size: 2rem !important;
+    color: #222831 !important;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+.nav-link {
+    padding: 0 .75rem  !important;
+    font-size: 1.25rem !important;
+    font-family: "Lalezar" , sans-serif;
+    color: #6f675b !important;
+}
+.nav-link:hover {
+    color: #222831 !important;
+}
