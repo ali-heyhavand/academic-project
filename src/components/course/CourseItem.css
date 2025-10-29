@@ -9,8 +9,9 @@
     border: 3px solid #948979 !important;
     transition: .3s;
     width: 100% !important;
+    height: 100%;
 }
-.card-course:hover {
+.card-course.active:hover {
     scale: 1.03;
     box-shadow: 0 0 5px #000;
 }

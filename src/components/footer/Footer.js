@@ -11,20 +11,23 @@ function Footer() {
             دانش پژوهش
           </a>
           <div className="d-flex flex-column flex-md-row justify-content-center align-items-center">
-            <NavLink className="nav-link p-2 p-md-4" to="/home">
-              خانه
+            <NavLink className="nav-link p-1 p-md-3" to="#">
+              <i className="bx bxl-github"></i>
             </NavLink>
-            <NavLink className="nav-link p-2 p-md-4" to="/blog">
-              ویرایش مقاله
+            <NavLink className="nav-link p-1 p-md-3" to="/blog">
+              <i className="bx bxl-instagram-alt"></i>
             </NavLink>
-            <NavLink className="nav-link p-2 p-md-4" to="/panel">
-              پنل
+            <NavLink className="nav-link p-1 p-md-3" to="/panel">
+              <i className="bx bxl-linkedin-square"></i>
             </NavLink>
-            <NavLink className="nav-link p-2 p-md-4" to="/login">
-              ورود
+            <NavLink className="nav-link p-1 p-md-3" to="/login">
+              <i className="bx bxs-envelope"></i>
             </NavLink>
           </div>
         </div>
+      </div>
+      <div className="footer-des">
+        <p>Design by Ali Heyhavand | 2025 </p>
       </div>
     </>
   );

@@ -1,3 +1,16 @@
 .footer {
     background-color: #DFD0B8;
 }
+.nav-link i {
+    font-size: 2rem;
+}
+.footer-des {
+    background-color: #948979;
+    height: 1.5rem;
+    line-height: 1.5rem;
+}
+.footer-des p {
+    font-size: 13px;
+    text-align: center;
+    color: #DFD0B8;
+}

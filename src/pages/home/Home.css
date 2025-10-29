@@ -7,34 +7,36 @@
     border-radius: 2rem;
     border: 4px solid #948979;
 }
-.box h1 {
+.box h1 ,
+.course-section h1{
     font-family: "Lalezar";
     color: #222831;
     margin-bottom: 2rem;
-    padding-bottom: 1rem;
+}
+.box h1 {
     border-bottom: 2px solid #222831;
+    padding-bottom: 1rem;
 }
 .box p {
     text-align: justify;
-}
-.company-info {
-    align-items: center;
 }
 .pic-header,
 .pic-success {
     width: 100%;
     max-width: 530px;
 }
-.course-section {
+.section-course-home-page h1 {
+    width: 100%;
+    text-align: center;
     background-color: #DFD0B8;
+    padding: 1rem;
+    border-radius: 1.5rem;
     border: 4px solid #948979;
-    border-radius: 2rem;
-    padding: 1rem 1rem 3rem;
+    margin: 3rem 0;
+    white-space: nowrap;
 }
-.course-section h2 {
-    margin: 1rem .5rem 2rem;
-    font-family: "Lalezar";
-    color: #222831;
+.section-course-des p {
+    text-align: justify;
 }
 .pic-success {
     aspect-ratio: 1;
@@ -62,17 +64,16 @@
 .teacher-section {
     overflow: hidden;
 }
-
-.teacher-section h1 {
+.teacher-section h2 {
     font-family: "Lalezar";
     color: #DFD0B8;
-    max-width: 60%;
+    max-width: 100%;
     text-align: center;
     padding: 1rem 3rem;
     border: #DFD0B8 3px solid;
     border-radius: 1rem;
     white-space: nowrap;
-    margin: auto;
+    margin: 5rem auto .5rem;
 }
 
 .start-teaching-section {
@@ -111,7 +112,7 @@
 .btn-start-teaching-info {
     align-self: flex-end;
     padding: .5rem 2rem;
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin-top: 2rem;
     border: none;
     outline: none;
@@ -130,7 +131,9 @@
         font-size: 3rem;
     }
     .btn-start-teaching-info {
-        padding: .5rem 3rem;
-        font-size: 1.4rem;
+        padding: .5rem 2rem;
+    }
+    .teacher-section h2 {
+        width: 50%;
     }
 }
