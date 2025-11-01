@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/academic-project/static/css/main.4b4ca4a6.css",
+    "main.js": "/academic-project/static/js/main.930d1d36.js",
+    "static/media/boxicons.svg": "/academic-project/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/academic-project/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/academic-project/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/academic-project/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/academic-project/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/computer.svg": "/academic-project/static/media/computer.b64dde588495cf33dc167e9aeb115a83.svg",
+    "static/media/pic.svg": "/academic-project/static/media/pic.cba8e51d3e712a02e750f48ae6fc11ba.svg",
+    "static/media/ai.svg": "/academic-project/static/media/ai.4582c8cca3384ec91d764e2ce2178ac3.svg",
+    "static/media/finance.svg": "/academic-project/static/media/finance.ce301275502f22b97358a1fda5d77d05.svg",
+    "static/media/chemistry.svg": "/academic-project/static/media/chemistry.81142b1b50c13ab62ccd41cd9146e986.svg",
+    "static/media/planing.svg": "/academic-project/static/media/planing.235bc3107a93a80f2bb79694d2eaff4a.svg",
+    "static/media/basketball.svg": "/academic-project/static/media/basketball.39e59321da6dbc73e5c27e5f8d5a87f0.svg",
+    "static/media/speaker.svg": "/academic-project/static/media/speaker.ffad9c0ba3cb65a2b1e8daf2e4ea4e1b.svg",
+    "static/media/math.svg": "/academic-project/static/media/math.0a60a28377877a6ee0d32f55ac91b2c6.svg",
+    "static/media/successpic.svg": "/academic-project/static/media/successpic.2dfc897f5aceb779e68d40befbb12bcb.svg",
+    "index.html": "/academic-project/index.html",
+    "main.4b4ca4a6.css.map": "/academic-project/static/css/main.4b4ca4a6.css.map",
+    "main.930d1d36.js.map": "/academic-project/static/js/main.930d1d36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4ca4a6.css",
+    "static/js/main.930d1d36.js"
+  ]
+}
