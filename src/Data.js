@@ -63,47 +63,47 @@ let courseItemsData = [
 let teachersData = [
   {
     id: 1,
-    picture: teacher1,
+    picture: "https://i.imgur.com/bpxkOOf.jpeg",
     teacher: " هیهاوند",
   },
   {
     id: 2,
-    picture: teacher2,
+    picture: "https://i.imgur.com/4Udi60u.jpeg",
     teacher: " حسین زاده",
   },
   {
     id: 3,
-    picture: teacher3,
+    picture: "https://i.imgur.com/pvZDesx.jpeg",
     teacher: " شیرازی",
   },
   {
     id: 4,
-    picture: teacher4,
+    picture: "https://i.imgur.com/qsyo0fI.jpeg",
     teacher: " رضایی",
   },
   {
     id: 5,
-    picture: teacher5,
+    picture: "https://i.imgur.com/O8KoPVw.jpeg",
     teacher: " جعفری نیا",
   },
   {
     id: 6,
-    picture: teacher6,
+    picture: "https://i.imgur.com/Y0XK4Az.jpeg",
     teacher: " یزدانی",
   },
   {
     id: 7,
-    picture: teacher7,
+    picture: "https://i.imgur.com/kWUWcD4.jpeg",
     teacher: "محمدی",
   },
   {
     id: 8,
-    picture: teacher8,
+    picture: "https://i.imgur.com/evZp3SD.jpeg",
     teacher: " بهرامی",
   },
   {
     id: 8,
-    picture: teacher9,
+    picture: "https://i.imgur.com/Qk86vOR.jpeg",
     teacher: "تقی زاده",
   },
 ];
