@@ -1,21 +1,12 @@
 {
   "files": {
     "main.css": "/academic-project/static/css/main.4b4ca4a6.css",
-    "main.js": "/academic-project/static/js/main.27862a0e.js",
+    "main.js": "/academic-project/static/js/main.930d1d36.js",
     "static/media/boxicons.svg": "/academic-project/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/academic-project/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/boxicons.woff": "/academic-project/static/media/boxicons.d12afc36557395143e4b.woff",
     "static/media/boxicons.ttf": "/academic-project/static/media/boxicons.db9ddb1898dbd76badca.ttf",
-    "static/media/teacher2.jpg": "/academic-project/static/media/teacher2.d47a4fca132cd45abd8d.jpg",
-    "static/media/teacher7.jpg": "/academic-project/static/media/teacher7.3dc3ba11bec0c6e06f3e.jpg",
-    "static/media/teacher6.jpg": "/academic-project/static/media/teacher6.b5453adda959d6d94b6c.jpg",
     "static/media/boxicons.woff2": "/academic-project/static/media/boxicons.df635aaf04cd75132f62.woff2",
-    "static/media/teacher1.jpg": "/academic-project/static/media/teacher1.5034d8633bd78b9ee8fc.jpg",
-    "static/media/teacher9.jpg": "/academic-project/static/media/teacher9.719a46a42de5940a0d5a.jpg",
-    "static/media/teacher3.jpg": "/academic-project/static/media/teacher3.7c9be3048f64100d017f.jpg",
-    "static/media/teacher8.jpg": "/academic-project/static/media/teacher8.355706a8ac674c9a00ba.jpg",
-    "static/media/teacher5.jpg": "/academic-project/static/media/teacher5.adfc0921a6d6bc691dde.jpg",
-    "static/media/teacher4.jpg": "/academic-project/static/media/teacher4.e5f582d87a05fd1dbec9.jpg",
     "static/media/computer.svg": "/academic-project/static/media/computer.b64dde588495cf33dc167e9aeb115a83.svg",
     "static/media/pic.svg": "/academic-project/static/media/pic.cba8e51d3e712a02e750f48ae6fc11ba.svg",
     "static/media/ai.svg": "/academic-project/static/media/ai.4582c8cca3384ec91d764e2ce2178ac3.svg",
@@ -28,10 +19,10 @@
     "static/media/successpic.svg": "/academic-project/static/media/successpic.2dfc897f5aceb779e68d40befbb12bcb.svg",
     "index.html": "/academic-project/index.html",
     "main.4b4ca4a6.css.map": "/academic-project/static/css/main.4b4ca4a6.css.map",
-    "main.27862a0e.js.map": "/academic-project/static/js/main.27862a0e.js.map"
+    "main.930d1d36.js.map": "/academic-project/static/js/main.930d1d36.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4ca4a6.css",
-    "static/js/main.27862a0e.js"
+    "static/js/main.930d1d36.js"
   ]
 }
