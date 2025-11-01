@@ -7,15 +7,6 @@ import speaker from "./assets/images/speaker.svg";
 import ai from "./assets/images/ai.svg";
 import chemistry from "./assets/images/chemistry.svg";
 
-import teacher1 from "./assets/images/teacher1.jpg";
-import teacher2 from "./assets/images/teacher2.jpg";
-import teacher3 from "./assets/images/teacher3.jpg";
-import teacher4 from "./assets/images/teacher4.jpg";
-import teacher5 from "./assets/images/teacher5.jpg";
-import teacher6 from "./assets/images/teacher6.jpg";
-import teacher7 from "./assets/images/teacher7.jpg";
-import teacher8 from "./assets/images/teacher8.jpg";
-import teacher9 from "./assets/images/teacher9.jpg";
 
 let courseItemsData = [
   {
@@ -102,7 +93,7 @@ let teachersData = [
     teacher: " بهرامی",
   },
   {
-    id: 8,
+    id: 9,
     picture: "https://i.imgur.com/Qk86vOR.jpeg",
     teacher: "تقی زاده",
   },
