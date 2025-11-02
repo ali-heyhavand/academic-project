@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/academic-project/static/css/main.4b4ca4a6.css",
-    "main.js": "/academic-project/static/js/main.930d1d36.js",
+    "main.css": "/academic-project/static/css/main.f672676b.css",
+    "main.js": "/academic-project/static/js/main.21f8beaf.js",
     "static/media/boxicons.svg": "/academic-project/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/boxicons.eot": "/academic-project/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/boxicons.woff": "/academic-project/static/media/boxicons.d12afc36557395143e4b.woff",
@@ -18,11 +18,11 @@
     "static/media/math.svg": "/academic-project/static/media/math.0a60a28377877a6ee0d32f55ac91b2c6.svg",
     "static/media/successpic.svg": "/academic-project/static/media/successpic.2dfc897f5aceb779e68d40befbb12bcb.svg",
     "index.html": "/academic-project/index.html",
-    "main.4b4ca4a6.css.map": "/academic-project/static/css/main.4b4ca4a6.css.map",
-    "main.930d1d36.js.map": "/academic-project/static/js/main.930d1d36.js.map"
+    "main.f672676b.css.map": "/academic-project/static/css/main.f672676b.css.map",
+    "main.21f8beaf.js.map": "/academic-project/static/js/main.21f8beaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b4ca4a6.css",
-    "static/js/main.930d1d36.js"
+    "static/css/main.f672676b.css",
+    "static/js/main.21f8beaf.js"
   ]
 }
