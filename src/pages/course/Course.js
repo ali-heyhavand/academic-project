@@ -28,9 +28,6 @@ function Course() {
             <div className="section-course-des">
               <div className="section-title">
                 <h1>{courseData.title}</h1>
-                <h6>
-                  لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ
-                </h6>
               </div>
               <p>
                 لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با

@@ -32,7 +32,7 @@
     padding: 1rem;
     border-radius: 1.5rem;
     border: 4px solid #948979;
-    margin: 3rem 0;
+    margin-bottom: 1rem;
     white-space: nowrap;
 }
 .section-course-des p {
@@ -135,5 +135,8 @@
     }
     .teacher-section h2 {
         width: 50%;
+    }
+    .section-course-home-page h1 {
+        margin: 3rem 0 2rem;
     }
 }
