@@ -7,47 +7,54 @@ import speaker from "./assets/images/speaker.svg";
 import ai from "./assets/images/ai.svg";
 import chemistry from "./assets/images/chemistry.svg";
 
-
 let courseItemsData = [
   {
     id: 1,
     picture: planing,
     title: "برنامه ریزی",
+    price: "2/300/000",
   },
   {
     id: 2,
     picture: math,
     title: "ریاضی",
+    price: "4/700/000",
   },
   {
     id: 3,
     picture: computer,
     title: "کامپیوتر",
+    price: "10/560/000",
   },
   {
     id: 4,
     picture: finance,
     title: "حسابداری",
+    price: "4/300/000",
   },
   {
     id: 5,
     picture: basketball,
     title: "ورزش بسکتبال",
+    price: "300/000",
   },
   {
     id: 6,
     picture: speaker,
     title: "سخنران حرفه ای",
+    price: "1/300/000",
   },
   {
     id: 7,
     picture: chemistry,
     title: "شیمی",
+    price: "7/000/000",
   },
   {
     id: 8,
     picture: ai,
     title: "هوش مصنوعی",
+    price: "850/000",
   },
 ];
 

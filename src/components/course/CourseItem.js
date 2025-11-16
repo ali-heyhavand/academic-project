@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import "./CourseItem.css"
 import { Link } from 'react-router-dom';
 
-function CourseItem({picture , title , id , active}) {
+function CourseItem({picture , title , id , active , price}) {
     
 
     return(
@@ -15,6 +15,7 @@ function CourseItem({picture , title , id , active}) {
             <Card.Text>
                 لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها وای شرایط فعلی تکنولوژی مورد نیاز
             </Card.Text>
+                <p style={{textAlign:"left", color:"#DFD0B8"}}>{price} تومان</p>
                 <Link to={`/courses/${id}`}>
                     <Button className='btn fw-bold' style={{backgroundColor:"#DFD0B8", color:'#393E46', border:'none'}}>خرید دوره</Button>
                 </Link>

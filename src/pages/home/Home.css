@@ -25,18 +25,30 @@
     width: 100%;
     max-width: 530px;
 }
-.section-course-home-page h1 {
+.section-course-home-page h2 {
     width: 100%;
+    margin: 2rem 0;
+    color: #DFD0B8;
     text-align: center;
-    background-color: #DFD0B8;
+    background-color: #222831;
     padding: 1rem;
     border-radius: 1.5rem;
     border: 4px solid #948979;
-    margin-bottom: 1rem;
     white-space: nowrap;
 }
+
+.section-course {
+    background-color: #DFD0B8;
+    border-radius: 1.5rem;
+    border: 4px solid #948979;
+    margin: 0 .25rem !important;
+}
+
 .section-course-des p {
     text-align: justify;
+}
+.section-course .section-course-des p{
+    color: #222831 !important;
 }
 .pic-success {
     aspect-ratio: 1;
@@ -136,7 +148,10 @@
     .teacher-section h2 {
         width: 50%;
     }
-    .section-course-home-page h1 {
-        margin: 3rem 0 2rem;
+    .section-course-home-page h2 {
+        margin-bottom: 2rem;
+    }
+    .section-course {
+        margin: 8rem 0 !important;
     }
 }

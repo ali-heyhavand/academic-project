@@ -9,7 +9,7 @@ function Mynav() {
       <nav id="navId" className="navbar navbar-expand-lg rounded-bottom-5" >
         <div className="container px-lg-5">
           <a className="navbar-brand d-flex align-items-center" href="#">
-            <i className='bx  bx-book-bookmark me-2'  ></i>  
+            <i className='bx  bx-book-bookmark me-2'></i>  
             دانش پژوهش
           </a>
           <button
@@ -25,9 +25,9 @@ function Mynav() {
           </button>
           <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <NavLink className="nav-link p-2 p-md-4" to="/home">خانه</NavLink>
-              <NavLink className="nav-link p-2 p-md-4" to="/blog">ویرایش مقاله</NavLink>
-              <NavLink className="nav-link p-2 p-md-4" to="/panel">پنل</NavLink>
+              <NavLink className="nav-link p-2 p-md-4" to="/">خانه</NavLink>
+              <NavLink className="nav-link p-2 p-md-4" to="/courses">دوره ها</NavLink>
+              <NavLink className="nav-link p-2 p-md-4" to="/About">درباره ما</NavLink>
               <NavLink className="nav-link p-2 p-md-4" to="/login">ورود</NavLink>
             </div>
           </div>

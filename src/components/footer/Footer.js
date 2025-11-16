@@ -14,13 +14,13 @@ function Footer() {
             <NavLink className="nav-link p-1 p-md-3" to="#">
               <i className="bx bxl-github"></i>
             </NavLink>
-            <NavLink className="nav-link p-1 p-md-3" to="/blog">
+            <NavLink className="nav-link p-1 p-md-3" to="#">
               <i className="bx bxl-instagram-alt"></i>
             </NavLink>
-            <NavLink className="nav-link p-1 p-md-3" to="/panel">
+            <NavLink className="nav-link p-1 p-md-3" to="#">
               <i className="bx bxl-linkedin-square"></i>
             </NavLink>
-            <NavLink className="nav-link p-1 p-md-3" to="/login">
+            <NavLink className="nav-link p-1 p-md-3" to="#">
               <i className="bx bxs-envelope"></i>
             </NavLink>
           </div>

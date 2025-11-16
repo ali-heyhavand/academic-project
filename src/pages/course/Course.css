@@ -1,16 +1,8 @@
-.section-title {
-  background-color: #dfd0b8;
-  color: #222831;
-  padding: .5rem;
-  border-radius: 1.5rem;
-  border: 4px solid #948979;
-  margin: 3rem 0 1.5rem;
-  width: 85%;
-  text-align: center;
-}
+
 .section-course-des h1 {
   font-family: "Lalezar";
-  font-size: 2rem;
+  font-size: 2.75rem;
+  color: #dfd0b8;
 }
 .section-course-des p {
   font-size: 1.25rem;
@@ -19,11 +11,6 @@
   padding-right: 1.5rem;
   margin-bottom: 2rem;
 }
-.course-section h2 {
-  font-family: "Lalezar";
-  font-size: 2.2rem;
-  padding-top: .5rem;
-}
 .course-section {
   background-color: #dfd0b8;
   margin: 2rem 0 3rem;
@@ -31,8 +18,35 @@
   border-radius: 2rem;
   border: 4px solid #948979;
 }
+.price-course {
+  font-family: "Lalezar";
+  font-size: 1.75rem;
+  color: #dfd0b8;
+  margin-bottom: 0;
+}
+.courser-title {
+  margin: 2rem 0 1.5rem;
+  text-align: center;
+}
+.section-buy {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.section-buy button{
+  all: unset;
+  color: #fff;
+  background-color: #dfd0b8;
+  font-size: 1.25rem;
+  padding: .5rem 1.25rem;
+  border-radius: .5rem;
+  color: #222831;
+  font-weight: 600;
+  transition: all .3s;
+}
+.section-buy button:hover {
+  background-color: #948979;
+  color: #fff;
+}
 @media screen and (min-width : 992px) {
-  .section-title {
-    margin: 3rem 0;
-  }
 }

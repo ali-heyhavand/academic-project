@@ -1,0 +1,43 @@
+
+.courses-title {
+  color: #222831;
+  background-color: #dfd0b8;
+  display: inline-block;
+  font-family: "Lalezar";
+  font-size: 1.75rem;
+  padding: .75rem 3.5rem;
+  border-radius: 1rem;
+  border: 3px solid #948979;
+  text-align: center;
+}
+.filter-section {
+  background-color: #dfd0b8;
+  border: 4px solid #948979;
+  border-radius: 1rem;
+  padding: 1rem 0.5rem;
+}
+
+.search-input {
+  width: 75%;
+  padding:.5rem 1rem;
+  border: none;
+  outline: none;
+  border-radius: 0 0.75rem 0.75rem 0;
+  border: 2px solid #948979;
+  border-left: none;
+  margin-bottom: .5rem;
+}
+.search-section button {
+  width: 25%;
+  padding: 0.5rem;
+  border: none;
+  outline: none;
+  background-color: #948979;
+  border: 2px solid #948979;
+  border-radius: .75rem 0 0 .75rem;
+  color: #fff;
+  transition: .3s;
+}
+.search-section button:hover {
+    background-color: #222831;
+}

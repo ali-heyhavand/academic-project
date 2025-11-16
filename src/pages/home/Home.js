@@ -13,6 +13,7 @@ import { SwiperSlide, Swiper } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/effect-cards";
+import { Link } from "react-router-dom";
 
 function Home() {
   let [teachers, setTeachers] = useState(teachersData);
@@ -32,7 +33,7 @@ function Home() {
       duration: 1000,
       easing: "ease-in-out",
     });
-    ScrollReveal().reveal(".section-course-home-page h1", {
+    ScrollReveal().reveal(".section-course-home-page h2", {
       delay: 1000,
       origin: "bottom",
       distance: "50px",
@@ -126,10 +127,10 @@ function Home() {
           </Col>
         </Row>
 
-        <Row>
+        <Row className="section-course">
           <Col className="col-12 p-lg-5 col-lg-6 mt-lg-5">
             <div className="section-course-home-page section-course-des">
-              <h1>دوره های آموزشگاه</h1>
+              <h2>دوره های آموزشگاه</h2>
               <p className="mx-3">
                 لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با
                 استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله
@@ -163,7 +164,7 @@ function Home() {
                 breakpoints={{
                   0: {
                     slidesPerView: 1,
-                  }
+                  },
                 }}
               >
                 {courseItems.map((item) => (
@@ -259,9 +260,11 @@ function Home() {
               <h1>ساختن آینده با دانش پژهش آسونه</h1>
               <h3>فرصت از دست نده همین الان شروع کن!</h3>
             </div>
-            <button className="btn-start-teaching-info align-self-lg-start">
-              ثبت نام
-            </button>
+            <Link to="/login">
+              <button className="btn-start-teaching-info align-self-lg-start">
+                ثبت نام
+              </button>
+            </Link>
           </div>
         </Container>
       </div>
